@@ -4,7 +4,6 @@ import by.fenix.lessons.tasklist.domain.exception.ResourceNotFoundException;
 import by.fenix.lessons.tasklist.domain.task.Status;
 import by.fenix.lessons.tasklist.domain.task.Task;
 import by.fenix.lessons.tasklist.repository.TaskRepository;
-import by.fenix.lessons.tasklist.repository.UserRepository;
 import by.fenix.lessons.tasklist.service.TaskService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
